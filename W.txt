@@ -1,0 +1,219 @@
+#ip force proxy
+ip-cidr, 1.1.1.1/32
+
+DOMAIN-KEYWORD, github
+DOMAIN-KEYWORD, dropbox
+DOMAIN-KEYWORD, epochtimes
+
+# instagram and Facebook
+DOMAIN-KEYWORD, Facebook
+DOMAIN-KEYWORD, instagram
+DOMAIN-SUFFIX, fbcdn.net
+DOMAIN-SUFFIX, fbsbx.com
+
+# wikipedia
+DOMAIN-SUFFIX, wikipedia.org
+DOMAIN-SUFFIX, w.wiki
+DOMAIN-SUFFIX, wikinews.org
+DOMAIN-SUFFIX, wiktionary.org
+# wikipedia Image
+DOMAIN-SUFFIX, wikimedia.org
+DOMAIN, media.xyzcdn.net
+
+#copilot
+DOMAIN-SUFFIX, copilot.microsoft.com
+DOMAIN-KEYWORD, chatgpt
+DOMAIN-SUFFIX, openai.com
+
+# X
+DOMAIN-SUFFIX, x.com
+DOMAIN-SUFFIX, twitter.com
+DOMAIN-SUFFIX, t.co
+DOMAIN-SUFFIX, twimg.com
+
+#discord
+DOMAIN-KEYWORD, discord
+DOMAIN-KEYWORD, discordapp
+
+#perplexity
+DOMAIN-SUFFIX, perplexity.ai
+
+# 
+DOMAIN-KEYWORD, duckduckgo
+DOMAIN-SUFFIX, scmp.com
+DOMAIN-SUFFIX, acast.com
+DOMAIN-SUFFIX, cms-twdigitalassets.com
+DOMAIN-SUFFIX, axios.com
+DOMAIN-SUFFIX, blogspot.com
+DOMAIN-SUFFIX, econ.st
+DOMAIN-SUFFIX, economist.com
+DOMAIN-SUFFIX, pixnet.net
+
+# Apple Podcast
+DOMAIN-SUFFIX, podcasts.apple.com
+DOMAIN-SUFFIX, anchor.fm
+DOMAIN-SUFFIX, podbean.com
+DOMAIN-SUFFIX, blubrry.com
+DOMAIN-SUFFIX, buzzsprout.com
+DOMAIN-SUFFIX, soundon.fm
+DOMAIN-SUFFIX, pdst.fm
+
+# FT
+DOMAIN-SUFFIX, ft.com
+DOMAIN-SUFFIX, ftchinese.com
+# FT Image
+DOMAIN-SUFFIX, ftimg.net
+
+# NYT
+DOMAIN-SUFFIX, nytimes.com
+DOMAIN-SUFFIX, nyti.ms
+# NYT
+DOMAIN-SUFFIX, nyt.com
+
+# rfa
+DOMAIN-SUFFIX, rfa.org
+
+# DW
+DOMAIN-SUFFIX, dw.com
+DOMAIN-SUFFIX, dwcdn.net
+
+# RFi
+DOMAIN-SUFFIX, rfi.fr
+DOMAIN-SUFFIX, rfi.my
+
+#rss
+DOMAIN-SUFFIX, feedly.com
+DOMAIN-SUFFIX, rsshub.app
+
+#ABC
+DOMAIN-SUFFIX, ab.co
+DOMAIN-SUFFIX, abc.net.au
+DOMAIN-SUFFIX, abc-cdn.net.au
+
+# WSJ
+DOMAIN-SUFFIX, wsj.com
+DOMAIN-SUFFIX, wsj.net
+
+# Thenitium
+DOMAIN-SUFFIX, theinitium.com
+
+# TW
+DOMAIN-SUFFIX, cna.com.tw
+
+# Pinterest
+DOMAIN-SUFFIX, Pinterest.com
+DOMAIN-SUFFIX, pinimg.com
+
+#
+DOMAIN-SUFFIX, bit.ly
+DOMAIN-SUFFIX, cloudfront.net
+
+# VOA
+DOMAIN-SUFFIX, voachinese.com
+DOMAIN-SUFFIX, weserv.nl
+DOMAIN-SUFFIX，disqus.com
+# VOA
+DOMAIN-SUFFIX, voanews.com
+
+# Nikkei
+DOMAIN-SUFFIX, nikkei.com
+
+# BBC
+DOMAIN-SUFFIX, bbc.com
+DOMAIN-SUFFIX, bbc.in
+DOMAIN-SUFFIX, bbc.co.uk
+DOMAIN-SUFFIX, bbci.co.uk
+
+# Bloomberg
+DOMAIN-SUFFIX, bloomberg.com
+DOMAIN-SUFFIX, fast.com
+
+# Medium
+DOMAIN-SUFFIX, medium.com
+
+#Reddit
+DOMAIN-KEYWORD, reddit
+DOMAIN-SUFFIX, redd.it
+
+# Yahoo
+DOMAIN-KEYWORD, Yahoo
+DOMAIN-SUFFIX, xhamster.com
+DOMAIN-SUFFIX, yimg.com
+
+DOMAIN-SUFFIX, i-scmp.com
+
+# Amazon
+DOMAIN-SUFFIX, amazon.co.jp
+
+# other
+DOMAIN-SUFFIX, flickr.com
+DOMAIN-SUFFIX, matters.news
+DOMAIN-SUFFIX, quora.com
+DOMAIN-SUFFIX, pincong.rocks
+DOMAIN-SUFFIX, v2ex.com
+DOMAIN-SUFFIX, washingtonpProxyt.com
+DOMAIN-SUFFIX, nypost.com
+
+# Reuter
+DOMAIN-SUFFIX, reuters.com
+DOMAIN-SUFFIX, reut.rs
+
+#Foxnews
+DOMAIN-SUFFIX, fxn.ws
+DOMAIN-SUFFIX, foxnews.com
+DOMAIN-SUFFIX, foxbusiness.com
+
+DOMAIN-SUFFIX, zerohedge.com
+DOMAIN-SUFFIX, tru.am
+DOMAIN-KEYWORD, dianomi
+DOMAIN-SUFFIX, chinadigitaltimes.net
+DOMAIN-SUFFIX, greatfire.org
+DOMAIN-SUFFIX, creaders.net
+DOMAIN, ocsp.pki.goog
+
+DOMAIN-SUFFIX, torproject.org
+DOMAIN-SUFFIX, chosun.com
+
+# Freeweibo\Freeweichat\freezhihu
+DOMAIN-KEYWORD, free
+DOMAIN-SUFFIX, gstatic.com
+DOMAIN-SUFFIX, bumingbai.net
+DOMAIN-SUFFIX, yibaochina.com
+DOMAIN-SUFFIX, ltn.com.tw
+DOMAIN-SUFFIX, thetimes.co.uk
+DOMAIN-SUFFIX, mac.gov.tw
+DOMAIN-SUFFIX, secretchina.com
+DOMAIN-SUFFIX, matters.town
+
+# Google and Youtube
+DOMAIN-KEYWORD, Google
+DOMAIN-KEYWORD, Gmail
+DOMAIN-KEYWORD, Youtube
+DOMAIN-SUFFIX, goo.gl
+DOMAIN-SUFFIX, Youtu.be
+# Google and Youtube movie and image
+DOMAIN-SUFFIX, ytimg.com
+DOMAIN-SUFFIX, ggpht.com
+
+#Adobe Firefly
+DOMAIN-SUFFIX, adobe.io
+DOMAIN, firefly.adobe.com
+DOMAIN, odin.adobe.com
+DOMAIN, hbrt.adobe.com
+
+# Spotify
+DOMAIN-SUFFIX, pscdn.co
+DOMAIN-SUFFIX, scdn.co
+DOMAIN-SUFFIX, spoti.fi
+DOMAIN-SUFFIX, spotilocal.com
+DOMAIN-KEYWORD, spotify
+
+DOMAIN-SUFFIX, hallowlib.org
+DOMAIN-KEYWORD, justmysocks
+
+#telegram
+DOMAIN-KEYWORD,telegram
+DOMAIN-SUFFIX,t.me
+DOMAIN-SUFFIX,telegra.ph
+
+DOMAIN-SUFFIX, pornhub.com
