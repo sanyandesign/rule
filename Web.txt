@@ -137,7 +137,7 @@ hbrt.adobe.com
 .justmysocks.net
 .justmysocks3.com
 .justmysocks2.net
-.telegram.com
+.telegram.org
 .t.me
 .telegra.ph
 .pornhub.com
