@@ -1,4 +1,4 @@
-mesu.apple.com,REJECT
-gdmf.apple.com,REJECT
-updates-http.cdn-apple.com,REJECT
-xp.apple.com,REJECT
+mesu.apple.com
+gdmf.apple.com
+updates-http.cdn-apple.com
+xp.apple.com
