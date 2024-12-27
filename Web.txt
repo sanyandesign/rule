@@ -115,6 +115,7 @@ ocsp.pki.goog
 .matters.town
 .google.com
 .googleapi.com
+.googleapis.com
 .google.com.hk
 .youtube.com
 .gmail.com
