@@ -195,7 +195,7 @@ DOMAIN-SUFFIX, Youtu.be
 DOMAIN-SUFFIX, ytimg.com
 DOMAIN-SUFFIX, ggpht.com
 
-#Adobe Firefly
+#Adobe Photoshop
 DOMAIN-SUFFIX, adobe.io
 DOMAIN, firefly.adobe.com
 DOMAIN, odin.adobe.com
