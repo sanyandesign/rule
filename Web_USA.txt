@@ -9,6 +9,7 @@
 .spotify.com
 .spotifycdn.com
 .google.com
+.googlevideo.com
 .googleapis.com
 .google.com.hk
 .youtube.com
