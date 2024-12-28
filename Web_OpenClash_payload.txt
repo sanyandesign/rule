@@ -116,6 +116,7 @@ payload:
   - '+.matters.town'
   - '+.google.com'
   - '+.googlevideo.com'
+  - '+.googleadservices.com'
   - '+.google.com.hk'
   - '+.youtube.com'
   - '+.gmail.com'
