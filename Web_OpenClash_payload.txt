@@ -117,6 +117,7 @@ payload:
   - '+.google.com'
   - '+.googleapis.com'
   - '+.googlevideo.com'
+  - '+.googleusercontent.com'
   - '+.googlesyndication.com'
   - '+.googleadservices.com'
   - '+.google.cn'
