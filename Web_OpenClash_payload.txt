@@ -115,7 +115,7 @@ payload:
   - '+.secretchina.com'
   - '+.matters.town'
   - '+.google.com'
-	- '+.googleapis.com'
+  - '+.googleapis.com'
   - '+.googlevideo.com'
   - '+.googleadservices.com'
   - '+.google.cn'
