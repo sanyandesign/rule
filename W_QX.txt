@@ -190,8 +190,9 @@ DOMAIN-SUFFIX, secretchina.com
 DOMAIN-SUFFIX, matters.town
 
 # Google and Youtube
-DOMAIN-SUFFIX, Google.ocm
-DOMAIN-SUFFIX, Google.ocm.hk
+DOMAIN-SUFFIX, Google.com
+DOMAIN-SUFFIX, Googlevideo.com
+DOMAIN-SUFFIX, Google.com.hk
 DOMAIN-SUFFIX, googleapis.com
 DOMAIN-SUFFIX, googleusercontent.com
 DOMAIN-SUFFIX, Gmail.com
