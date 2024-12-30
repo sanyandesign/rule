@@ -125,23 +125,30 @@ DOMAIN-SUFFIX, bbc.com
 DOMAIN-SUFFIX, bbc.in
 DOMAIN-SUFFIX, bbc.co.uk
 DOMAIN-SUFFIX, bbci.co.uk
+
 # Bloomberg
 DOMAIN-SUFFIX, bloomberg.com
 DOMAIN-SUFFIX, fast.com
+
 # Medium
 DOMAIN-SUFFIX, medium.com
+
 #Reddit
 DOMAIN-SUFFIX, reddit.com
 DOMAIN-SUFFIX, redditmedia.com
 DOMAIN-SUFFIX, redditstatic.com
 DOMAIN-SUFFIX, redd.it
+
 # Yahoo
 DOMAIN-SUFFIX, Yahoo.com
 DOMAIN-SUFFIX, xhamster.com
 DOMAIN-SUFFIX, yimg.com
+
 DOMAIN-SUFFIX, i-scmp.com
+
 # Amazon
 DOMAIN-SUFFIX, amazon.co.jp
+
 # other
 DOMAIN-SUFFIX, flickr.com
 DOMAIN-SUFFIX, matters.news
@@ -150,13 +157,16 @@ DOMAIN-SUFFIX, pincong.rocks
 DOMAIN-SUFFIX, v2ex.com
 DOMAIN-SUFFIX, washingtonpProxyt.com
 DOMAIN-SUFFIX, nypost.com
+
 # Reuter
 DOMAIN-SUFFIX, reuters.com
 DOMAIN-SUFFIX, reut.rs
+
 #Foxnews
 DOMAIN-SUFFIX, fxn.ws
 DOMAIN-SUFFIX, foxnews.com
 DOMAIN-SUFFIX, foxbusiness.com
+
 DOMAIN-SUFFIX, zerohedge.com
 DOMAIN-SUFFIX, freeweibo.com
 DOMAIN-SUFFIX, freewechat.com
@@ -165,8 +175,10 @@ DOMAIN-SUFFIX, chinadigitaltimes.net
 DOMAIN-SUFFIX, greatfire.org
 DOMAIN-SUFFIX, creaders.net
 DOMAIN, ocsp.pki.goog
+
 DOMAIN-SUFFIX, torproject.org
 DOMAIN-SUFFIX, chosun.com
+
 # Freeweibo\Freeweichat\freezhihu
 DOMAIN-SUFFIX, gstatic.com
 DOMAIN-SUFFIX, bumingbai.net
@@ -176,9 +188,11 @@ DOMAIN-SUFFIX, thetimes.co.uk
 DOMAIN-SUFFIX, mac.gov.tw
 DOMAIN-SUFFIX, secretchina.com
 DOMAIN-SUFFIX, matters.town
+
 # Google and Youtube
-DOMAIN-SUFFIX, Google.ocm
-DOMAIN-SUFFIX, Google.ocm.hk
+DOMAIN-SUFFIX, Google.com
+DOMAIN-SUFFIX, Googlevideo.com
+DOMAIN-SUFFIX, Google.com.hk
 DOMAIN-SUFFIX, googleapis.com
 DOMAIN-SUFFIX, googleusercontent.com
 DOMAIN-SUFFIX, Gmail.com
@@ -188,21 +202,26 @@ DOMAIN-SUFFIX, Youtu.be
 # Google and Youtube movie and image
 DOMAIN-SUFFIX, ytimg.com
 DOMAIN-SUFFIX, ggpht.com
+
 #Adobe Firefly
 DOMAIN-SUFFIX, adobe.io
 DOMAIN, firefly.adobe.com
 DOMAIN, odin.adobe.com
 DOMAIN, hbrt.adobe.com
+
 # Spotify
 DOMAIN-SUFFIX, pscdn.co
 DOMAIN-SUFFIX, scdn.co
 DOMAIN-SUFFIX, spoti.fi
 DOMAIN-SUFFIX, spotilocal.com
 DOMAIN-SUFFIX, spotify.com
+
 DOMAIN-SUFFIX, hallowlib.org
 DOMAIN-SUFFIX, justmysocks.net
+
 #telegram
 DOMAIN-SUFFIX, telegram.org
 DOMAIN-SUFFIX, t.me
 DOMAIN-SUFFIX, telegra.ph
+
 DOMAIN-SUFFIX, pornhub.com
