@@ -1,13 +1,15 @@
 #ip force proxy
 ip-cidr, 1.1.1.1/32
 
-DOMAIN-KEYWORD, github
-DOMAIN-KEYWORD, dropbox
-DOMAIN-KEYWORD, epochtimes
+DOMAIN-SUFFIX, githubusercontent.com
+DOMAIN-SUFFIX, github.com
+DOMAIN-SUFFIX, dropbox.com
+DOMAIN-SUFFIX, epochtimes.com
+DOMAIN-SUFFIX, dropbox.com
 
 # instagram and Facebook
-DOMAIN-KEYWORD, Facebook
-DOMAIN-KEYWORD, instagram
+DOMAIN-SUFFIX, Facebook.com
+DOMAIN-SUFFIX, instagram.com
 DOMAIN-SUFFIX, fbcdn.net
 DOMAIN-SUFFIX, fbsbx.com
 
@@ -22,7 +24,7 @@ DOMAIN, media.xyzcdn.net
 
 #copilot
 DOMAIN-SUFFIX, copilot.microsoft.com
-DOMAIN-KEYWORD, chatgpt
+DOMAIN-SUFFIX, chatgpt.com
 DOMAIN-SUFFIX, openai.com
 
 # X
@@ -32,14 +34,14 @@ DOMAIN-SUFFIX, t.co
 DOMAIN-SUFFIX, twimg.com
 
 #discord
-DOMAIN-KEYWORD, discord
-DOMAIN-KEYWORD, discordapp
+DOMAIN-SUFFIX, discord.com
+DOMAIN-SUFFIX, discordapp.com
 
 #perplexity
 DOMAIN-SUFFIX, perplexity.ai
 
 # 
-DOMAIN-KEYWORD, duckduckgo
+DOMAIN-SUFFIX, duckduckgo.com
 DOMAIN-SUFFIX, scmp.com
 DOMAIN-SUFFIX, acast.com
 DOMAIN-SUFFIX, cms-twdigitalassets.com
@@ -123,28 +125,23 @@ DOMAIN-SUFFIX, bbc.com
 DOMAIN-SUFFIX, bbc.in
 DOMAIN-SUFFIX, bbc.co.uk
 DOMAIN-SUFFIX, bbci.co.uk
-
 # Bloomberg
 DOMAIN-SUFFIX, bloomberg.com
 DOMAIN-SUFFIX, fast.com
-
 # Medium
 DOMAIN-SUFFIX, medium.com
-
 #Reddit
-DOMAIN-KEYWORD, reddit
+DOMAIN-SUFFIX, reddit.com
+DOMAIN-SUFFIX, redditmedia.com
+DOMAIN-SUFFIX, redditstatic.com
 DOMAIN-SUFFIX, redd.it
-
 # Yahoo
-DOMAIN-KEYWORD, Yahoo
+DOMAIN-SUFFIX, Yahoo.com
 DOMAIN-SUFFIX, xhamster.com
 DOMAIN-SUFFIX, yimg.com
-
 DOMAIN-SUFFIX, i-scmp.com
-
 # Amazon
 DOMAIN-SUFFIX, amazon.co.jp
-
 # other
 DOMAIN-SUFFIX, flickr.com
 DOMAIN-SUFFIX, matters.news
@@ -153,29 +150,24 @@ DOMAIN-SUFFIX, pincong.rocks
 DOMAIN-SUFFIX, v2ex.com
 DOMAIN-SUFFIX, washingtonpProxyt.com
 DOMAIN-SUFFIX, nypost.com
-
 # Reuter
 DOMAIN-SUFFIX, reuters.com
 DOMAIN-SUFFIX, reut.rs
-
 #Foxnews
 DOMAIN-SUFFIX, fxn.ws
 DOMAIN-SUFFIX, foxnews.com
 DOMAIN-SUFFIX, foxbusiness.com
-
 DOMAIN-SUFFIX, zerohedge.com
-DOMAIN-SUFFIX, tru.am
-DOMAIN-KEYWORD, dianomi
+DOMAIN-SUFFIX, freeweibo.com
+DOMAIN-SUFFIX, freewechat.com
+DOMAIN-SUFFIX, freezhihu.org
 DOMAIN-SUFFIX, chinadigitaltimes.net
 DOMAIN-SUFFIX, greatfire.org
 DOMAIN-SUFFIX, creaders.net
 DOMAIN, ocsp.pki.goog
-
 DOMAIN-SUFFIX, torproject.org
 DOMAIN-SUFFIX, chosun.com
-
 # Freeweibo\Freeweichat\freezhihu
-DOMAIN-KEYWORD, free
 DOMAIN-SUFFIX, gstatic.com
 DOMAIN-SUFFIX, bumingbai.net
 DOMAIN-SUFFIX, yibaochina.com
@@ -184,36 +176,33 @@ DOMAIN-SUFFIX, thetimes.co.uk
 DOMAIN-SUFFIX, mac.gov.tw
 DOMAIN-SUFFIX, secretchina.com
 DOMAIN-SUFFIX, matters.town
-
 # Google and Youtube
-DOMAIN-KEYWORD, Google
-DOMAIN-KEYWORD, Gmail
-DOMAIN-KEYWORD, Youtube
+DOMAIN-SUFFIX, Google.ocm
+DOMAIN-SUFFIX, Google.ocm.hk
+DOMAIN-SUFFIX, googleapis.com
+DOMAIN-SUFFIX, googleusercontent.com
+DOMAIN-SUFFIX, Gmail.com
+DOMAIN-SUFFIX, Youtube.com
 DOMAIN-SUFFIX, goo.gl
 DOMAIN-SUFFIX, Youtu.be
 # Google and Youtube movie and image
 DOMAIN-SUFFIX, ytimg.com
 DOMAIN-SUFFIX, ggpht.com
-
-#Adobe Photoshop
+#Adobe Firefly
 DOMAIN-SUFFIX, adobe.io
 DOMAIN, firefly.adobe.com
 DOMAIN, odin.adobe.com
 DOMAIN, hbrt.adobe.com
-
 # Spotify
 DOMAIN-SUFFIX, pscdn.co
 DOMAIN-SUFFIX, scdn.co
 DOMAIN-SUFFIX, spoti.fi
 DOMAIN-SUFFIX, spotilocal.com
-DOMAIN-KEYWORD, spotify
-
+DOMAIN-SUFFIX, spotify.com
 DOMAIN-SUFFIX, hallowlib.org
-DOMAIN-KEYWORD, justmysocks
-
+DOMAIN-SUFFIX, justmysocks.net
 #telegram
-DOMAIN-KEYWORD,telegram
-DOMAIN-SUFFIX,t.me
-DOMAIN-SUFFIX,telegra.ph
-
+DOMAIN-SUFFIX, telegram.org
+DOMAIN-SUFFIX, t.me
+DOMAIN-SUFFIX, telegra.ph
 DOMAIN-SUFFIX, pornhub.com
