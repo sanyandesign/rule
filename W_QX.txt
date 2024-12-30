@@ -1,0 +1,226 @@
+#ip force proxy
+ip-cidr, 1.1.1.1/32
+
+DOMAIN-SUFFIX, githubusercontent.com
+DOMAIN-SUFFIX, github.com
+DOMAIN-SUFFIX, dropbox.com
+DOMAIN-SUFFIX, epochtimes.com
+DOMAIN-SUFFIX, dropbox.com
+
+# instagram and Facebook
+DOMAIN-SUFFIX, Facebook.com
+DOMAIN-SUFFIX, instagram.com
+DOMAIN-SUFFIX, fbcdn.net
+DOMAIN-SUFFIX, fbsbx.com
+
+# wikipedia
+DOMAIN-SUFFIX, wikipedia.org
+DOMAIN-SUFFIX, w.wiki
+DOMAIN-SUFFIX, wikinews.org
+DOMAIN-SUFFIX, wiktionary.org
+# wikipedia Image
+DOMAIN-SUFFIX, wikimedia.org
+DOMAIN, media.xyzcdn.net
+
+#copilot
+DOMAIN-SUFFIX, copilot.microsoft.com
+DOMAIN-SUFFIX, chatgpt.com
+DOMAIN-SUFFIX, openai.com
+
+# X
+DOMAIN-SUFFIX, x.com
+DOMAIN-SUFFIX, twitter.com
+DOMAIN-SUFFIX, t.co
+DOMAIN-SUFFIX, twimg.com
+
+#discord
+DOMAIN-SUFFIX, discord.com
+DOMAIN-SUFFIX, discordapp.com
+
+#perplexity
+DOMAIN-SUFFIX, perplexity.ai
+
+# 
+DOMAIN-SUFFIX, duckduckgo.com
+DOMAIN-SUFFIX, scmp.com
+DOMAIN-SUFFIX, acast.com
+DOMAIN-SUFFIX, cms-twdigitalassets.com
+DOMAIN-SUFFIX, axios.com
+DOMAIN-SUFFIX, blogspot.com
+DOMAIN-SUFFIX, econ.st
+DOMAIN-SUFFIX, economist.com
+DOMAIN-SUFFIX, pixnet.net
+
+# Apple Podcast
+DOMAIN-SUFFIX, podcasts.apple.com
+DOMAIN-SUFFIX, anchor.fm
+DOMAIN-SUFFIX, podbean.com
+DOMAIN-SUFFIX, blubrry.com
+DOMAIN-SUFFIX, buzzsprout.com
+DOMAIN-SUFFIX, soundon.fm
+DOMAIN-SUFFIX, pdst.fm
+
+# FT
+DOMAIN-SUFFIX, ft.com
+DOMAIN-SUFFIX, ftchinese.com
+# FT Image
+DOMAIN-SUFFIX, ftimg.net
+
+# NYT
+DOMAIN-SUFFIX, nytimes.com
+DOMAIN-SUFFIX, nyti.ms
+# NYT
+DOMAIN-SUFFIX, nyt.com
+
+# rfa
+DOMAIN-SUFFIX, rfa.org
+
+# DW
+DOMAIN-SUFFIX, dw.com
+DOMAIN-SUFFIX, dwcdn.net
+
+# RFi
+DOMAIN-SUFFIX, rfi.fr
+DOMAIN-SUFFIX, rfi.my
+
+#rss
+DOMAIN-SUFFIX, feedly.com
+DOMAIN-SUFFIX, rsshub.app
+
+#ABC
+DOMAIN-SUFFIX, ab.co
+DOMAIN-SUFFIX, abc.net.au
+DOMAIN-SUFFIX, abc-cdn.net.au
+
+# WSJ
+DOMAIN-SUFFIX, wsj.com
+DOMAIN-SUFFIX, wsj.net
+
+# Thenitium
+DOMAIN-SUFFIX, theinitium.com
+
+# TW
+DOMAIN-SUFFIX, cna.com.tw
+
+# Pinterest
+DOMAIN-SUFFIX, Pinterest.com
+DOMAIN-SUFFIX, pinimg.com
+
+#
+DOMAIN-SUFFIX, bit.ly
+DOMAIN-SUFFIX, cloudfront.net
+
+# VOA
+DOMAIN-SUFFIX, voachinese.com
+DOMAIN-SUFFIX, weserv.nl
+DOMAIN-SUFFIX，disqus.com
+# VOA
+DOMAIN-SUFFIX, voanews.com
+
+# Nikkei
+DOMAIN-SUFFIX, nikkei.com
+
+# BBC
+DOMAIN-SUFFIX, bbc.com
+DOMAIN-SUFFIX, bbc.in
+DOMAIN-SUFFIX, bbc.co.uk
+DOMAIN-SUFFIX, bbci.co.uk
+
+# Bloomberg
+DOMAIN-SUFFIX, bloomberg.com
+DOMAIN-SUFFIX, fast.com
+
+# Medium
+DOMAIN-SUFFIX, medium.com
+
+#Reddit
+DOMAIN-SUFFIX, reddit.com
+DOMAIN-SUFFIX, redditmedia.com
+DOMAIN-SUFFIX, redditstatic.com
+DOMAIN-SUFFIX, redd.it
+
+# Yahoo
+DOMAIN-SUFFIX, Yahoo.com
+DOMAIN-SUFFIX, xhamster.com
+DOMAIN-SUFFIX, yimg.com
+
+DOMAIN-SUFFIX, i-scmp.com
+
+# Amazon
+DOMAIN-SUFFIX, amazon.co.jp
+
+# other
+DOMAIN-SUFFIX, flickr.com
+DOMAIN-SUFFIX, matters.news
+DOMAIN-SUFFIX, quora.com
+DOMAIN-SUFFIX, pincong.rocks
+DOMAIN-SUFFIX, v2ex.com
+DOMAIN-SUFFIX, washingtonpProxyt.com
+DOMAIN-SUFFIX, nypost.com
+
+# Reuter
+DOMAIN-SUFFIX, reuters.com
+DOMAIN-SUFFIX, reut.rs
+
+#Foxnews
+DOMAIN-SUFFIX, fxn.ws
+DOMAIN-SUFFIX, foxnews.com
+DOMAIN-SUFFIX, foxbusiness.com
+
+DOMAIN-SUFFIX, zerohedge.com
+DOMAIN-SUFFIX, freeweibo.com
+DOMAIN-SUFFIX, freewechat.com
+DOMAIN-SUFFIX, freezhihu.org
+DOMAIN-SUFFIX, chinadigitaltimes.net
+DOMAIN-SUFFIX, greatfire.org
+DOMAIN-SUFFIX, creaders.net
+DOMAIN, ocsp.pki.goog
+
+DOMAIN-SUFFIX, torproject.org
+DOMAIN-SUFFIX, chosun.com
+
+# Freeweibo\Freeweichat\freezhihu
+DOMAIN-SUFFIX, gstatic.com
+DOMAIN-SUFFIX, bumingbai.net
+DOMAIN-SUFFIX, yibaochina.com
+DOMAIN-SUFFIX, ltn.com.tw
+DOMAIN-SUFFIX, thetimes.co.uk
+DOMAIN-SUFFIX, mac.gov.tw
+DOMAIN-SUFFIX, secretchina.com
+DOMAIN-SUFFIX, matters.town
+
+# Google and Youtube
+DOMAIN-SUFFIX, Google.ocm
+DOMAIN-SUFFIX, Google.ocm.hk
+DOMAIN-SUFFIX, googleapis.com
+DOMAIN-SUFFIX, googleusercontent.com
+DOMAIN-SUFFIX, Gmail.com
+DOMAIN-SUFFIX, Youtube.com
+DOMAIN-SUFFIX, goo.gl
+DOMAIN-SUFFIX, Youtu.be
+# Google and Youtube movie and image
+DOMAIN-SUFFIX, ytimg.com
+DOMAIN-SUFFIX, ggpht.com
+
+#Adobe Firefly
+DOMAIN-SUFFIX, adobe.io
+DOMAIN, firefly.adobe.com
+DOMAIN, odin.adobe.com
+DOMAIN, hbrt.adobe.com
+
+# Spotify
+DOMAIN-SUFFIX, pscdn.co
+DOMAIN-SUFFIX, scdn.co
+DOMAIN-SUFFIX, spoti.fi
+DOMAIN-SUFFIX, spotilocal.com
+DOMAIN-SUFFIX, spotify.com
+
+DOMAIN-SUFFIX, hallowlib.org
+DOMAIN-SUFFIX, justmysocks.net
+
+#telegram
+DOMAIN-SUFFIX, telegram.org
+DOMAIN-SUFFIX, t.me
+DOMAIN-SUFFIX, telegra.ph
+
+DOMAIN-SUFFIX, pornhub.com
