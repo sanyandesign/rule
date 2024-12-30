@@ -1,0 +1,62 @@
+mode: rule
+log-level: error
+dns:
+  enable: true
+  listen: 0.0.0.0:53
+  ipv6: false
+  enhanced-mode: fake-ip
+  fake-ip-range: 198.18.0.1/16
+  use-hosts: true
+ 
+proxies:
+  - name: c3s1
+    server: c3s1.portablesubmarines.com
+    port: 5038
+    type: ss
+    cipher: aes-256-gcm
+    password: AzSPVcSLwo
+  - name: c3s2
+    server: c3s2.portablesubmarines.com
+    port: 5038
+    type: ss
+    cipher: aes-256-gcm
+    password: AzSPVcSLwo
+  - name: c3s3
+    server: c3s3.portablesubmarines.com
+    port: 5038
+    type: vmess
+    uuid: 31acd587-a2b0-419d-8757-d6bd7c11d1b1
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: false
+  - name: c3s801
+    server: c3s801.portablesubmarines.com
+    port: 5038
+    type: vmess
+    uuid: 31acd587-a2b0-419d-8757-d6bd7c11d1b1
+    alterId: 0
+    cipher: auto
+    tls: false
+    skip-cert-verify: false
+proxy-groups:
+  - name: Auto
+    type: url-test
+    proxies:
+      - c3s1
+      - c3s2
+      - c3s3
+      - c3s801
+    url: http://www.gstatic.com/generate_204
+    interval: 120
+rule-providers:
+  proxy-domain-text:
+    behavior: domain-text
+    url: https://raw.githubusercontent.com/sanyandesign/rule/refs/heads/main/Web.txt
+  lan-cidr:
+    behavior: ipcidr
+    url: https://cdn.jsdelivr.net/gh/Loyalsoldier/clash-rules@release/lancidr.txt
+rules:
+  - RULE-SET,proxy-domain-text,Auto
+  - RULE-SET,lan-cidr,DIRECT
+  - MATCH,DIRECT
