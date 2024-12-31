@@ -143,3 +143,7 @@ hbrt.adobe.com
 .t.me
 .telegra.ph
 .pornhub.com
+.disneyplus.com
+.ip.sb
+.tiktok.com
+.netflix.com
