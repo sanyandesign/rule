@@ -1,5 +1,6 @@
 .githubusercontent.com
 .github.com
+.github.io
 .gitbook.io
 .dropbox.com
 .epochtimes.com
