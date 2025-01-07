@@ -137,10 +137,6 @@ hbrt.adobe.com
 .spotify.com
 .spotifycdn.com
 .hallowlib.org
-.justmysocks.com
-.justmysocks.net
-.justmysocks3.com
-.justmysocks2.net
 .telegram.org
 .t.me
 .telegra.ph
