@@ -146,3 +146,4 @@ hbrt.adobe.com
 .tiktok.com
 .netflix.com
 .patreon.com
+.instagram.com
