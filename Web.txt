@@ -145,5 +145,4 @@ hbrt.adobe.com
 .ip.sb
 .tiktok.com
 .netflix.com
-.patreon.com
 .instagram.com
