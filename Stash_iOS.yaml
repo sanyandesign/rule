@@ -1,0 +1,37 @@
+proxy-providers:
+  provider-USA:
+    url: https://raw.githubusercontent.com/sanyandesign/rule/refs/heads/main/proxies.yaml
+    interval: 3600
+proxy-groups:
+  - name: US
+    type: url-test
+    interval: 300
+    use:
+      - provider-USA
+rule-providers:
+  proxy-domain-text:
+    behavior: domain-text
+    url: https://raw.githubusercontent.com/sanyandesign/rule/refs/heads/main/Web.txt
+rules:
+  - DOMAIN-SUFFIX,gdmf.apple.com,REJECT
+  - DOMAIN-SUFFIX,xp.apple.com,REJECT
+  - RULE-SET,proxy-domain-text,US
+  - GEOIP,CN,DIRECT,no-resolve
+  - DOMAIN-SUFFIX,cn,DIRECT
+  - DOMAIN-SUFFIX,qq.com,DIRECT
+  - MATCH,DIRECT
+mitm:
+  enable: false
+script:
+  enable: false
+log-level: silent
+mode: rule
+dns:
+  follow-rule: null
+  nameserver:
+    - system
+  fallback:
+    - 8.8.8.8
+  nameserver-policy:
+    +.qq.com: system
+    +.portablesubmarines.com: 8.8.8.8
