@@ -146,3 +146,4 @@ hbrt.adobe.com
 .tiktok.com
 .netflix.com
 .instagram.com
+.tritondigital.com
