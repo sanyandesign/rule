@@ -128,6 +128,7 @@ ocsp.pki.goog
 .ggpht.com
 .adobe.io
 firefly.adobe.com
+photoshop.adobe.com
 odin.adobe.com
 hbrt.adobe.com
 .pscdn.co
