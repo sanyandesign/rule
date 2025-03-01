@@ -208,6 +208,7 @@ DOMAIN-SUFFIX, adobe.io
 DOMAIN, firefly.adobe.com
 DOMAIN, odin.adobe.com
 DOMAIN, hbrt.adobe.com
+DOMAIN, photoshop.adobe.com
 
 # Spotify
 DOMAIN-SUFFIX, pscdn.co
