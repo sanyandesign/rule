@@ -20,15 +20,6 @@ proxies:
     cipher: auto
     tls: false
     skip-cert-verify: false
-  - name: s4
-    server: c3s4.portablesubmarines.com
-    port: 5038
-    type: vmess
-    uuid: 31acd587-a2b0-419d-8757-d6bd7c11d1b1
-    alterId: 0
-    cipher: auto
-    tls: false
-    skip-cert-verify: false
   - name: s5
     server: c3s5.portablesubmarines.com
     port: 5038
