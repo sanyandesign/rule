@@ -1,0 +1,4 @@
+.spoti.fi
+.spotilocal.com
+.spotify.com
+.spotifycdn.com
