@@ -148,3 +148,4 @@ hbrt.adobe.com
 .netflix.com
 .instagram.com
 .tritondigital.com
+.tradingview.com
