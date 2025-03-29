@@ -50,6 +50,7 @@ DOMAIN-SUFFIX, blogspot.com
 DOMAIN-SUFFIX, econ.st
 DOMAIN-SUFFIX, economist.com
 DOMAIN-SUFFIX, pixnet.net
+DOMAIN-SUFFIX, tradingview.com
 
 # Apple Podcast
 DOMAIN-SUFFIX, podcasts.apple.com
