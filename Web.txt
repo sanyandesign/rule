@@ -45,6 +45,7 @@ media.xyzcdn.net
 .nytimes.com
 .nyti.ms
 .nyt.com
+.newyorktimesinfo.com
 .rfa.org
 .dw.com
 .dwcdn.net
