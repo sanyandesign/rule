@@ -124,6 +124,7 @@ ocsp.pki.goog
 .youtube.com
 .gmail.com
 .goo.gl
+gemini.google
 .Youtu.be
 .ytimg.com
 .ggpht.com
