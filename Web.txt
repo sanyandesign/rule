@@ -81,6 +81,7 @@ media.xyzcdn.net
 .redditstatic.com
 .redd.it
 .Yahoo.com
+.crashlytics.com
 .xhamster.com
 .yimg.com
 .i-scmp.com
