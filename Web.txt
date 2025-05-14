@@ -80,8 +80,7 @@ media.xyzcdn.net
 .redditmedia.com
 .redditstatic.com
 .redd.it
-.Yahoo.com
-.crashlytics.com
+.yahoo.com
 .xhamster.com
 .yimg.com
 .i-scmp.com
