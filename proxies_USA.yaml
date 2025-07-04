@@ -1,13 +1,1 @@
-proxies:
-  - name: s1
-    server: c3s1.portablesubmarines.com
-    port: 5038
-    type: ss
-    cipher: aes-256-gcm
-    password: AzSPVcSLwo
-  - name: s2
-    server: c3s2.portablesubmarines.com
-    port: 5038
-    type: ss
-    cipher: aes-256-gcm
-    password: AzSPVcSLwo
+
