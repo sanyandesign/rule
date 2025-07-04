@@ -60,7 +60,7 @@ media.xyzcdn.net
 .wsj.net
 .theinitium.com
 .cna.com.tw
-.Pinterest.com
+.pinterest.com
 .pinimg.com
 .bit.ly
 .cloudfront.net
