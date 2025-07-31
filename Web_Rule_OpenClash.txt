@@ -1,6 +1,4 @@
 payload:
-  - '+.Pinterest.com'
-  - '+.pinimg.com'  
   - '+.githubusercontent.com'
   - '+.github.com'
   - '+.dropbox.com'
