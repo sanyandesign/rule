@@ -1,4 +1,6 @@
 payload:
+  - '+.Pinterest.com'
+  - '+.pinimg.com'  
   - '+.githubusercontent.com'
   - '+.github.com'
   - '+.dropbox.com'
@@ -58,8 +60,6 @@ payload:
   - '+.wsj.net'
   - '+.theinitium.com'
   - '+.cna.com.tw'
-  - '+.Pinterest.com'
-  - '+.pinimg.com'
   - '+.bit.ly'
   - '+.cloudfront.net'
   - '+.voachinese.com'
