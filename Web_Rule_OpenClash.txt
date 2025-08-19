@@ -22,6 +22,8 @@ payload:
   - '+.twitter.com'
   - '+.t.co'
   - '+.twimg.com'
+  - '+.x.ai'
+  - '+.grok.com'
   - '+.discord.com'
   - '+.discordapp.com'
   - '+.perplexity.ai'
