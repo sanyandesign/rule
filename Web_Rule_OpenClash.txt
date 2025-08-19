@@ -1,8 +1,11 @@
 payload:
+  - '+.pinterest.com'
+  - '+.pinimg.com'
   - '+.githubusercontent.com'
   - '+.github.com'
   - '+.dropbox.com'
   - '+.epochtimes.com'
+  - '+.tradingview.com'
   - '+.facebook.com'
   - '+.fbcdn.net'
   - '+.fbsbx.com'
