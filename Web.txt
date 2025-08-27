@@ -5,6 +5,7 @@
 .dropbox.com
 .epochtimes.com
 .facebook.com
+.instagram.com
 .fbcdn.net
 .fbsbx.com
 .wikipedia.org
