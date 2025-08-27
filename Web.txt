@@ -5,6 +5,7 @@
 .dropbox.com
 .epochtimes.com
 .facebook.com
+.cdninstagram.com
 .instagram.com
 .fbcdn.net
 .fbsbx.com
