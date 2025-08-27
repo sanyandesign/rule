@@ -149,7 +149,6 @@ hbrt.adobe.com
 .ip.sb
 .tiktok.com
 .netflix.com
-.instagram.com
 .tritondigital.com
 .tradingview.com
 .udn.com
