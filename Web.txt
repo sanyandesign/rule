@@ -123,6 +123,7 @@ ocsp.pki.goog
 .googlevideo.com
 .googleapis.com
 .google.com.hk
+notebooklm.google
 .youtube.com
 .gmail.com
 .goo.gl
