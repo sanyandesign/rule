@@ -110,6 +110,7 @@ ocsp.pki.goog
 .freeweibo.com
 .freewechat.com
 .freezhihu.org
+.freebrowser.org
 .gstatic.com
 .bumingbai.net
 .yibaochina.com
