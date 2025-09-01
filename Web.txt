@@ -129,6 +129,7 @@ notebooklm.google
 .youtube.com
 .gmail.com
 .goo.gl
+doc.new
 gemini.google
 .Youtu.be
 .ytimg.com
