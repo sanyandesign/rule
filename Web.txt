@@ -25,6 +25,7 @@ media.xyzcdn.net
 .discord.com
 .discordapp.com
 .perplexity.ai
+.imagedelivery.net
 .duckduckgo.com
 .scmp.com
 .acast.com
