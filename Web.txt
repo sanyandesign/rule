@@ -157,3 +157,8 @@ hbrt.adobe.com
 .tritondigital.com
 .tradingview.com
 .udn.com
+.tiktok.com
+.tiktokv.com  
+.byteoversea.com
+.tik-tokapi.com
+.musical.ly
