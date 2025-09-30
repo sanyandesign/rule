@@ -163,3 +163,4 @@ hbrt.adobe.com
 .tik-tokapi.com
 .musical.ly
 .twreporter.org
+.threads.com
