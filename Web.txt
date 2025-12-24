@@ -164,3 +164,4 @@ hbrt.adobe.com
 .musical.ly
 .twreporter.org
 .threads.com
+.telegram.dog
