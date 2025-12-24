@@ -23,6 +23,7 @@ DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,discord.com
 DOMAIN-SUFFIX,discordapp.com
 DOMAIN-SUFFIX,perplexity.ai
+DOMAIN-SUFFIX,imagedelivery.net
 DOMAIN-SUFFIX,duckduckgo.com
 DOMAIN-SUFFIX,scmp.com
 DOMAIN-SUFFIX,acast.com
